@@ -1,0 +1,56 @@
+综述
+	NMR鉴定季戊四醇丙烯酸酯混合物中的组分
+	二维核磁共振谱解析及其应用（实验相关，多类型谱）
+	二维核磁共振谱在多糖结构研究中的应用
+	二维核磁光谱分析简介（多谱，乳糖鉴定）
+	核磁共振技术在食用菌多糖结构分析中的作用（多糖鉴定，步骤明确）
+	核磁共振技术在糖类化合物化学结构研究的应用（多糖鉴定步骤）
+	植物蛋白AtGrp7和寡糖LNDFHI的结构和功能的核磁共振研究（硕士论文）
+	Carbohydrate Structural Determination by NMR Spectroscopy: Modern Methods and Limitations
+1H一维谱
+	NMR and Molecular Recognition of N-Glycans: Remote Modifications of the Saccharide Chain Modulate Binding Features
+	Detection of Conserved N-Linked Glycans and Phase-variable Lipooligosaccharides and Capsules from Campylobacter Cells by Mass Spectrometry and High Resolution Magic Angle Spinning NMR Spectroscopy（结合质谱和NMR）
+	Exploring the glycan repertoire of genetically modified mice by isolation and profiling of the major glycan classes and nano-NMR analysis of glycan mixtures（实验相关）
+	Carbohydrates of influenza virus. Structural elucidation of the individual glycans of the FPV hemagglutinin by two‐dimensional 1H nmr and methylation analysis
+	Epitope Diversity of N-Glycans from Bovine Peripheral Myelin Glycoprotein P0 Revealed by Mass Spectrometry and Nano Probe Magic Angle Spinning 1H NMR Spectroscopy（结合质谱和NMR）
+	SOACS index: an easy NMR-based query for glycan retrieval
+	MS and NMR analysis of the cross-reacting determinant glycan from Trypanosoma brucei brucei MITat 1.6 variant specific glycoprotein
+	Determination by 360 MHZ 1H NMR spectroscopy of the type of branching in complex asparagine‐linked glycan chains of glycoproteins
+	Using pulse field gradient NMR diffusion measurements to define molecular size distributions in glycan preparations（实验相关）
+	GlyNest and CASPER: two independent approaches to estimate 1 H and 13 C NMR shifts of glycans available through a common web-interface（预测谱）
+	Preferred conformations and dynamics of five core structures of mucin typeO-glycans determined by NMR spectroscopy and force field calculations
+	Structure determination of the glycans of human‐serum α1‐antichymotrypsin using 1H‐NMR spectroscopy and deglycosylation by N‐glycanase
+	Unambiguous Characterization of N-Glycans of Monoclonal Antibody Cetuximab by Integration of LC-MS/MS and 1H NMR Spectroscopy（质谱和NMR，重点）
+	
+13C一维谱
+	Dynamics of the carbohydrate chains attached to the Fc portion of immunoglobulin G as studied by NMR spectroscopy
+	GlyNest and CASPER: two independent approaches to estimate 1 H and 13 C NMR shifts of glycans available through a common web-interface（预测谱）
+	NMR Spectroscopy in the Study of Carbohydrates Characterizing the Structural Complexity
+	
+TOCSY谱
+	Composition and Sequence Specific Resonance Assignments of the Heterogeneous N-Linked Glycan in the 13.6 kDa Adhesion Domain of Human Cluster of Differentiation 2 (CD2) as Determined by NMR on the Intact Glycoprotein
+	Epitope Diversity of N-Glycans from Bovine Peripheral Myelin Glycoprotein P0 Revealed by Mass Spectrometry and Nano Probe Magic Angle Spinning 1H NMR Spectroscopy
+	NMR Spectroscopy in the Study of Carbohydrates Characterizing the Structural Complexity
+	
+COSY谱
+	Carbohydrates of influenza virus. Structural elucidation of the individual glycans of the FPV hemagglutinin by two‐dimensional 1H nmr and methylation analysis
+	MS and NMR analysis of the cross-reacting determinant glycan from Trypanosoma brucei brucei MITat 1.6 variant specific glycoprotein
+	Preferred conformations and dynamics of five core structures of mucin typeO-glycans determined by NMR spectroscopy and force field calculations
+	Direct Evidence for Hydrogen Bonding in Glycans: A Combined NMR and Molecular Dynamics Study
+	
+HMQC，HSQC，HMBC谱
+	NMR of glycans: Shedding new light on old problems
+	Structural Analysis of Glycans by NMR Chemical Shift Prediction
+	NMR analysis demonstrates immunoglobulin G N-glycans are accessible and dynamic
+	NMR Characterization of Immunoglobulin G Fc Glycan Motion on Enzymatic Sialylation
+	Composition and Sequence Specific Resonance Assignments of the Heterogeneous N-Linked Glycan in the 13.6 kDa Adhesion Domain of Human Cluster of Differentiation 2 (CD2) as Determined by NMR on the Intact Glycoprotein
+	Dynamics of the carbohydrate chains attached to the Fc portion of immunoglobulin G as studied by NMR spectroscopy
+	Direct Evidence for Hydrogen Bonding in Glycans: A Combined NMR and Molecular Dynamics Study
+	NMR Spectroscopy in the Study of Carbohydrates Characterizing the Structural Complexity
+	
+NOE谱
+	NMR of glycans: Shedding new light on old problems
+	The solution NMR structure of glucosylated N‐glycans involved in the early stages of glycoprotein biosynthesis and folding
+	Composition and Sequence Specific Resonance Assignments of the Heterogeneous N-Linked Glycan in the 13.6 kDa Adhesion Domain of Human Cluster of Differentiation 2 (CD2) as Determined by NMR on the Intact Glycoprotein
+	Influence of the Extent of Branching on Solution Conformations of Complex Oligosaccharides: A Molecular Dynamics and NMR Study of a Penta-Antennary "Bisected" N-Glycan
+	NMR Spectroscopy in the Study of Carbohydrates Characterizing the Structural Complexity
